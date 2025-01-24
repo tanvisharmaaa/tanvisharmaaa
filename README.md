@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Tanvi Sharma
 
-<!--
-**tanvisharmaaa/tanvisharmaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Passionate Data Scientist
 
-Here are some ideas to get you started:
+-  I’m currently learning **Deep Learning and Reinforcement Learning for Finance**
+-  I’m actively looking for roles as a **Data Scientist**
+-  How to reach me: **[tsharma1@bu.edu](mailto:tsharma1@bu.edu)**
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanvi-sharma-809562173/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tanvisharmaaa)
+
+---
+
+### Languages and Tools:
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql)
+![Tableau](https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+
+---
+
+
+### Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvisharmaaa&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvisharmaaa&layout=compact&theme=radical)
