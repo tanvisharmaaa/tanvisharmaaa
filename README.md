@@ -22,8 +22,3 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
 
 ---
-
-
-### Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvisharmaaa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvisharmaaa&layout=compact&theme=radical)
