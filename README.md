@@ -2,7 +2,7 @@
 
 ### A Passionate Data Scientist
 
--  I’m currently learning **Deep Learning and Reinforcement Learning for to implement in financial domain**
+-  I’m currently learning **Deep Learning and Reinforcement Learning to implement in financial domain**
 -  I’m actively looking for roles as a **Data Scientist focussing in Risk Management**
 -  How to reach me: **[tsharma1@bu.edu](mailto:tsharma1@bu.edu)**
   
